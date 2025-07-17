@@ -56,7 +56,7 @@ requirements.txt:   (recommended) List of Python libraries needed.
     For camera input, open Cloth_Classification(Camera Input).ipynb.
     For uploading an image, open Cloth_Classification(Uploading Image).ipynb.
 
-4)(Optional) Connect a webcam for real-time testing.
+4)Connect a webcam for real-time testing.(Optional)
 
 5)Follow in-notebook instructions to classify clothing items.
 
